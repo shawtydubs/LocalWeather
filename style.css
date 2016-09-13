@@ -1,0 +1,21 @@
+body {
+  background: #000;
+  font-family: Signika, Tahoma, Verdana, sans-serif;
+  color: #fff;
+}
+
+div {
+  margin: 50px;
+}
+
+h1 {
+  font-size: 50pt;
+}
+
+.small {
+  font-size: 30px;
+}
+
+a {
+  text-decoration: none !important;
+}
